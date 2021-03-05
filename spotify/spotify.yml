@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: 'postgres://localhost:5432/hsplayer'
+    url: 'jdbc:postgres://localhost:5432/hsplayer'
     password: postgres
     username: postgres
     driver-class-name: org.postgresql.Driver
